@@ -1,0 +1,107 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": { "id": "bbc-news", "name": "BBC News" },
+        "author": "BBC News",
+        "title": "Sonic boom as fighter jets scramble to intercept plane over Washington DC",
+        "description": "The unresponsive aircraft later crashed in Virginia, officials say, and it is unclear what happened.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-65808194",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/279B/production/_129993101_gettyimages-640182014.jpg",
+        "publishedAt": "2023-06-05T09:07:13.3234527Z",
+        "content": "US fighter jets scrambled at supersonic speed to intercept an unresponsive plane as it flew over Washington DC on Sunday.\r\nThe F-16 jets caused a loud sonic boom that was heard around the region, pro… [+1730 chars]"
+      },
+      {
+        "source": { "id": "bbc-news", "name": "BBC News" },
+        "author": "BBC News",
+        "title": "Brian Cox 'hasn't watched Succession finale'",
+        "description": "The actor revealed a few spoilers when he spoke to Laura Kuenssberg about the show's ending.",
+        "url": "http://www.bbc.co.uk/news/entertainment-arts-65803015",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7074/production/_129988782_953c1f600e0fa8014e8b64f616e724d2175dd48e.jpg",
+        "publishedAt": "2023-06-05T08:52:15.6039406Z",
+        "content": "Brian Cox, one of the stars of the hit TV show Succession, has revealed that he hasn't seen the finale.\r\nThe actor plays Logan Roy in the HBO series - the character heads up a huge media company wort… [+83 chars]"
+      },
+      {
+        "source": { "id": "bbc-news", "name": "BBC News" },
+        "author": "BBC Sport",
+        "title": "Heat level NBA Finals thanks to key road win",
+        "description": "The Miami Heat inflict a first home defeat of the play-off series on the Denver Nuggets to level the NBA Finals at 1-1.",
+        "url": "http://www.bbc.co.uk/sport/basketball/65807436",
+        "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/0275/production/_129992600_gettyimages-1496018305.jpg",
+        "publishedAt": "2023-06-05T08:37:22.9007693Z",
+        "content": "Aaron Gordon tries to block Bam Adebayo's effort\r\nThe Miami Heat inflicted a first home defeat of the play-off series on the Denver Nuggets to level the NBA Finals at 1-1.\r\nBam Adebayo sealed the 111… [+1875 chars]"
+      },
+      {
+        "source": { "id": "bbc-news", "name": "BBC News" },
+        "author": "BBC News",
+        "title": "Elon Musk: Twitter snaps up top NBCUniversal executive",
+        "description": "It comes just weeks after NBCUniversal's head of advertising Linda Yaccarino was named as Twitter's CEO.",
+        "url": "http://www.bbc.co.uk/news/business-65806686",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5225/production/_129992012_d1dd76eb00893c4bb83e0a73742684e01aaaac7d.jpg",
+        "publishedAt": "2023-06-05T08:37:21.7592579Z",
+        "content": "Twitter has snapped up senior NBCUniversal executive Joe Benarroch, as Elon Musk continues to shake up the social media platform's top team.\r\nMr Benarroch starts the role on Monday, focussing on busi… [+2494 chars]"
+      },
+      {
+        "source": { "id": "bbc-news", "name": "BBC News" },
+        "author": "BBC News",
+        "title": "Prince Harry latest: Hacking case against Mirror group in High Court",
+        "description": "Prince Harry's lawyer sets the stage ahead of the Duke of Sussex's appearance in the witness box on Tuesday.",
+        "url": "http://www.bbc.co.uk/news/live/uk-65767191",
+        "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+        "publishedAt": "2023-06-05T08:22:20.9949552Z",
+        "content": "Allegations of voicemail interception first came to a head in 2006 when the News of the World's royal reporter and a private investigator were jailed.\r\nThat newspaper, owned by Rupert Murdoch, shut d… [+734 chars]"
+      },
+      {
+        "source": { "id": "bbc-news", "name": "BBC News" },
+        "author": "BBC News",
+        "title": "Li Shangfu: War with US would be unbearable disaster, says China defence minister",
+        "description": "Defence Minister Li Shangfu says Beijing is open to dialogue in his first major speech in the role.",
+        "url": "http://www.bbc.co.uk/news/world-asia-china-65803311",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3578/production/_129988631_gettyimages-1258416937.jpg",
+        "publishedAt": "2023-06-05T07:22:17.731662Z",
+        "content": "Media caption, Watch: China warship steers near US Navy in Taiwan Strait\r\nChina's defence minister has said war with the US would be an \"unbearable disaster\" for the world in his first major speech s… [+3181 chars]"
+      },
+      {
+        "source": { "id": "bbc-news", "name": "BBC News" },
+        "author": "BBC News",
+        "title": "Afghan women face 'pandemic of suicidal thoughts'",
+        "description": "Afghanistan faces a worsening mental health crisis amid a clampdown on women's freedoms and rights.",
+        "url": "http://www.bbc.co.uk/news/world-asia-65765399",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/234A/production/_129943090_976xgettyimages-1357168366.jpg",
+        "publishedAt": "2023-06-05T06:52:18.5874172Z",
+        "content": "\"I just want someone to hear my voice. I'm in pain, and I'm not the only one,\" an Afghan university student tells us, blinking back tears. \r\n\"Most of the girls in my class have had suicidal thoughts.… [+6773 chars]"
+      },
+      {
+        "source": { "id": "bbc-news", "name": "BBC News" },
+        "author": "BBC News",
+        "title": "Odisha train accident: Indian Railways seek police probe into crash",
+        "description": "The railway minister announced the decision but did not give more details.",
+        "url": "http://www.bbc.co.uk/news/world-asia-india-65785140",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/124B8/production/_129963947_gettyimages-1258430928-594x594.jpg",
+        "publishedAt": "2023-06-05T05:37:18.8688661Z",
+        "content": "India's railway ministry has recommended that the country's top detective agency should investigate the deadly crash that killed 275 people.\r\nRailway Minister Ashwini Vaishnaw announced the decision … [+2535 chars]"
+      },
+      {
+        "source": { "id": "bbc-news", "name": "BBC News" },
+        "author": "BBC News",
+        "title": "Kathleen Folbigg: Woman jailed over infant deaths pardoned",
+        "description": "A recent inquiry heard fresh evidence that Kathleen Folbigg did not kill her four children.",
+        "url": "http://www.bbc.co.uk/news/world-australia-65806606",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E83/production/_115651730_breaking-promo-976.png",
+        "publishedAt": "2023-06-05T02:07:14.4942406Z",
+        "content": "A woman once branded \"Australia's worst female serial killer\" has been pardoned after new evidence suggested she did not kill her four children.\r\nKathleen Folbigg was in 2003 sentenced to at least 25… [+911 chars]"
+      },
+      {
+        "source": { "id": "bbc-news", "name": "BBC News" },
+        "author": "BBC News",
+        "title": "Russia says it thwarted major Ukrainian offensive",
+        "description": "Moscow claims to have killed 250 Ukrainian troops, but this has not been independently verified.",
+        "url": "http://www.bbc.co.uk/news/world-europe-65806152",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/779B/production/_129991603_mediaitem129991112.jpg",
+        "publishedAt": "2023-06-05T00:52:16.6654821Z",
+        "content": "Russia's defence ministry says it has thwarted a major Ukrainian offensive and killed 250 Ukrainian troops. \r\nThere has been no comment from Kyiv and the Russian claim has not been independently veri… [+2707 chars]"
+      }
+    ]
+  }
+  
